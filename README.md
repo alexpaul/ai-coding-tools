@@ -5,9 +5,9 @@ A growing list of AI coding tools...
 ## Tools 
 
 * [Ollama](https://ollama.com/)
-* VSCode/Copilot
-* Cursor
-* Windsurf
+* [VSCode/Copilot](https://visualstudio.microsoft.com/github-copilot/)
+* [Cursor](https://www.cursor.com/)
+* [Windsurf](https://codeium.com/windsurf)
 * [Aider](https://aider.chat/)
  
 ***
