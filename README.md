@@ -36,4 +36,10 @@ A growing list of AI coding tools...
 * Stable Diffusion
 * [SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI?tab=readme-ov-file#installing-on-windows)
 
+***
+
+## Agents 
+
+* [OpenAI: Swarm](https://github.com/openai/swarm)
+
 
