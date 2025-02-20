@@ -2,8 +2,6 @@
 
 A growing list of AI coding tools...
 
-# AI Coding Tools 
-
 ## Tools 
 
 * [Ollama](https://ollama.com/)
