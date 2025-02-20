@@ -2,7 +2,7 @@
 
 A growing list of AI coding tools...
 
-## Tools 
+## IDEs/Tools 
 
 * [Ollama](https://ollama.com/)
 * [VSCode/Copilot](https://visualstudio.microsoft.com/github-copilot/)
