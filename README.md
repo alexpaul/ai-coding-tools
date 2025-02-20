@@ -41,5 +41,6 @@ A growing list of AI coding tools...
 ## Agents 
 
 * [OpenAI: Swarm](https://github.com/openai/swarm)
+* [Smolagents](https://huggingface.co/docs/smolagents/en/index)
 
 
