@@ -12,7 +12,7 @@ A growing list of AI coding tools...
  
 ***
 
-## Models
+## Models/LLMs
 
 * OpenAI
   * GPT-4o
