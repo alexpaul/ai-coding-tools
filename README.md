@@ -9,6 +9,7 @@ A growing list of AI coding tools...
 * [Cursor](https://www.cursor.com/)
 * [Windsurf](https://codeium.com/windsurf)
 * [Aider](https://aider.chat/)
+* [The intelligent terminal](https://www.warp.dev/)
  
 ***
 
