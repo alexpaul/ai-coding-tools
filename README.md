@@ -44,4 +44,10 @@ A growing list of AI coding tools...
 * [OpenAI: Swarm](https://github.com/openai/swarm)
 * [Smolagents](https://huggingface.co/docs/smolagents/en/index)
 
+***
+
+## Other
+
+* [MCP: Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
+
 
